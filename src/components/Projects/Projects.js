@@ -6,8 +6,6 @@ import devchat from "../../Assets/Projects/devchat.png";
 import natours from "../../Assets/Projects/natours.png";
 import crown  from "../../Assets/Projects/crown clothing.png";
 import covid from "../../Assets/Projects/covid test.jpg";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
 
 function Projects() {
   return (
